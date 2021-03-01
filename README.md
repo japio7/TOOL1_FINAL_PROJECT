@@ -21,3 +21,5 @@ and the lockdown measures that each state/territory took, including mask mandate
 ##### pip install matplotlib
 ##### pip install re
 ##### pip install Ipython
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/japio7/TOOL1_FINAL_PROJECT/master)
